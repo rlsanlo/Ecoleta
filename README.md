@@ -8,10 +8,10 @@
 * CSS
 * JavaScript
 * NodeJS
-* React
+* Express
+* Template engine ( Nunjucks )
 
 ---
-
 # Demonstração 
 ---
 **Em Construção...**
