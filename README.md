@@ -19,7 +19,7 @@
 ![Main-page](./Main-page.JPG)
 
 **Página de cadastro de Entidade**
-![Registration-page](./Registration-page.JPG)
+![Registration-Page](./Registration-page.JPG)
 
 **Tela de busca por Localidade**
 ![Screen-search](./Screen-search.JPG)
