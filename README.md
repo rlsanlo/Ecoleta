@@ -10,8 +10,31 @@
 * NodeJS
 * Express
 * Template engine ( Nunjucks )
+* Banco de dados ( SQLLite3 )
 
 ---
-# Demonstração 
+# Imagens da Aplicação 
 ---
-**Em Construção...**
+**Página Principal**
+![Main-page](./Main-page.jpg)
+
+**Página de cadastro de Entidade**
+![Registration-page](./Registration-page.jpg)
+
+**Tela de busca por Localidade**
+![Screen-search](./Screen-search.jpg)
+
+**Tela de resultado da busca**
+![Search-page](./Search-page.jpg)
+---
+
+# Demonstração em Funcionamento
+---
+![Ecoleta](./Ecoleta.gif)
+---
+# Possíveis novas funcionalidades para implementar
+---
+* Deletar os pontos de coleta;
+* Editar os itens que estão no ponto de coleta;
+* Botão de contato no card de cada Entidade;
+* Página de contato, juntamente com o mapa da localização da entidade.
