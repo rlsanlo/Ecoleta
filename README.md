@@ -25,7 +25,7 @@
 ![Screen-search](./Screen-search.JPG)
 
 **Tela de resultado da busca**
-![Search-page](./Search-Page.JPG)
+![Search-page](./Search-page.JPG)
 ---
 
 # Demonstração em Funcionamento
