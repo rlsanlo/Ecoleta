@@ -16,16 +16,16 @@
 # Imagens da Aplicação 
 ---
 **Página Principal**
-![Main-page](./Main-page.jpg)
+![Main-page](./Main-page.JPG)
 
 **Página de cadastro de Entidade**
-![Registration-page](./Registration-page.jpg)
+![Registration-page](./Registration-page.JPG)
 
 **Tela de busca por Localidade**
-![Screen-search](./Screen-search.jpg)
+![Screen-search](./Screen-search.JPG)
 
 **Tela de resultado da busca**
-![Search-page](./Search-page.jpg)
+![Search-page](./Search-page.JPG)
 ---
 
 # Demonstração em Funcionamento
